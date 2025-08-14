@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) Daffa Jaya Perkasa
+Copyright (c) 2025 Daffa Jaya Perkasa
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
